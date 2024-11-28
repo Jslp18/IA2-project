@@ -1,6 +1,7 @@
-# DEC: Diagnóstico de Enmerfedad Cardiovascular
+# FacePASS: Sistema de Validación de Identidades por Reconocimiento Facial
 
-![deadly gorgeous](https://github.com/Jslp18/IA1-Project/assets/99308344/5e7eb1d3-77cd-4bd0-a1b7-c1abee9d414a)
+![FacePASS Banner](https://github.com/user-attachments/assets/40f2eaa1-53b4-494b-9d12-1d9a5ae9d2c0)
+
 
 FacePass es un proyecto que utiliza redes neuronales métricas, como redes siamesas y triplet, para resolver problemas de autenticación en eventos masivos, evitando fraudes asociados con documentos físicos como la cédula. 
 
