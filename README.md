@@ -1,4 +1,6 @@
+# FacePASS: Sistema de Validación de Identidades por Reconocimiento Facial
 
+![FacePASS Banner](https://github.com/user-attachments/assets/1b0e3f15-ee89-47a4-b99c-b1733c8d82d1)
 
 FacePass es un proyecto que utiliza redes neuronales métricas, como redes siamesas y triplet, para resolver problemas de autenticación en eventos masivos, evitando fraudes asociados con documentos físicos como la cédula. 
 
