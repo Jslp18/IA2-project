@@ -66,7 +66,7 @@ También se aplican las mismas tripletas para la validación, calculando la pér
 [`Nombre del código colab`]('Aquí va el colab')
 
 # Enlace del video presentación del proyecto
-[`Youtube`]('Aquí va el video presentación')
+[`Youtube`](https://www.youtube.com/watch?v=SRJoflCAer4)
 
 # Enlace de diapositivas de presentación del proyecto
 [`Presentación`](https://www.canva.com/design/DAGVtnfq0fQ/NIcFgIZAmvOBVNsw11pKJg/edit?utm_content=DAGVtnfq0fQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
