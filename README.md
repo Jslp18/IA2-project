@@ -26,4 +26,5 @@ Implementar un modelo de validación de rostros mediante redes neuronales métri
 [`Youtube`]('Aquí va el video presentación')
 
 # Enlace de diapositivas de presentación del proyecto
-[`Presentación`]('Enlace a las diapositivas')
+[`Presentación`](https://www.canva.com/design/DAGVtnfq0fQ/NIcFgIZAmvOBVNsw11pKJg/edit?utm_content=DAGVtnfq0fQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
