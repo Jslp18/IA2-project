@@ -13,8 +13,8 @@ Johan Sebastián León Peñaloza - 2202037, Cristian Stivens Villareal Parra - 2
 Implementar un modelo de validación de rostros mediante redes neuronales métricas para la correcta gestión de ingreso de las personas en distintos escenarios.
 
 # Dataset
-[`FacesCRUB`]('[URL del dataset 1](https://www.kaggle.com/datasets/rajnishe/facescrub-full)')
-[`FacesCRUB Reducido a 5 imagenes por persona`]('[URL del dataset 2](https://drive.google.com/drive/folders/1JQu5U0e1ef8qd3yMLHeOHRL6McGatVSH?usp=sharing)')
+[`FacesCRUB`](https://www.kaggle.com/datasets/rajnishe/facescrub-full)
+[`FacesCRUB Reducido a 5 imagenes por persona`](https://drive.google.com/drive/folders/1JQu5U0e1ef8qd3yMLHeOHRL6McGatVSH?usp=sharing)
 
 # Modelos
 -  Modelo 1 
