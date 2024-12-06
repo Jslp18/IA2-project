@@ -63,7 +63,7 @@ También se aplican las mismas tripletas para la validación, calculando la pér
 -  Modelo 2 
 
 # Enlace del código desarrollado del proyecto
-[`Nombre del código colab`]('Aquí va el colab')
+[`Triplets - modelo No.2`](https://colab.research.google.com/drive/1LYqGZV682OdXga6aY_WPkvkpN7ddOUk8?usp=sharing)
 
 # Enlace del video presentación del proyecto
 [`Youtube`](https://www.youtube.com/watch?v=SRJoflCAer4)
