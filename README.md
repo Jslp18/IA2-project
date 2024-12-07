@@ -60,9 +60,11 @@ Sin etiquetas clásicas, ya que la función triplet loss no requiere clases expl
 ### Validación:
 También se aplican las mismas tripletas para la validación, calculando la pérdida en el conjunto de validación para ver si la red generaliza.
 
--  Modelo 2 
+-  Modelo Siamese implementado a partir de capas convolucionales con un enfoque "Contrastive".
+![siamese](https://github.com/user-attachments/assets/232eb409-c332-4376-941a-697c4017ebeb)
 
 # Enlace del código desarrollado del proyecto
+[`Triplets - modelo No.2`](https://colab.research.google.com/drive/1x7aJHDDZ63AFkns5rHhvxf_pb49LwHyo#scrollTo=jcWCNIcjIQ_V)
 [`Triplets - modelo No.2`](https://colab.research.google.com/drive/1LYqGZV682OdXga6aY_WPkvkpN7ddOUk8?usp=sharing)
 
 # Enlace del video presentación del proyecto
