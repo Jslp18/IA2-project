@@ -19,7 +19,7 @@ Implementar un modelo de validación de rostros mediante redes neuronales métri
 # Modelos
 ## Siamese con triplets
 Modelo Siamese desarrollado con arquitectura basada en FaceNet y enfoque de Triplet Loss.
-![Triplet Loss](https://pyimagesearch.com/wp-content/uploads/2023/03/triplet_loss_architecture.jpg)
+![Triplet Loss](https://pyimagesearch.com/wp-content/uploads/2023/03/triplet_loss_architecture.jpghttps://pyimagesearch.com/wp-content/uploads/2023/03/triplet-loss-w-keras-and-tf-featured.png)
 
 
 ## Siamese Contrastive approach
