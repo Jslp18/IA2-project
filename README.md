@@ -60,7 +60,8 @@ Sin etiquetas clásicas, ya que la función triplet loss no requiere clases expl
 ### Validación:
 También se aplican las mismas tripletas para la validación, calculando la pérdida en el conjunto de validación para ver si la red generaliza.
 
--  Modelo Siamese implementado a partir de capas convolucionales con un enfoque "Contrastive".
+## Siamese Contrastive approach
+Modelo Siamese implementado a partir de capas convolucionales con un enfoque "Contrastive".
 ![siamese](https://github.com/user-attachments/assets/232eb409-c332-4376-941a-697c4017ebeb)
 
 # Enlace del código desarrollado del proyecto
