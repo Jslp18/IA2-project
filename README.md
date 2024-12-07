@@ -19,9 +19,6 @@ Implementar un modelo de validación de rostros mediante redes neuronales métri
 # Modelos
 ## Siamese con triplets
 Modelo Siamese desarrollado con arquitectura basada en FaceNet y enfoque de Triplet Loss.
-![Triplet Loss](https://raw.githubusercontent.com/davideaversa/davideaversa/master/assets/triplet_loss.png)
-
-
 ## Siamese Contrastive approach
 Modelo Siamese implementado a partir de capas convolucionales con un enfoque "Contrastive".
 ![siamese](https://github.com/user-attachments/assets/232eb409-c332-4376-941a-697c4017ebeb)
